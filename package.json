@@ -1,0 +1,15 @@
+{
+  "name": "cyferd-test-tatw",
+  "version": "1.0.0",
+  "description": "Developer test for Cyferd - Thomas and the Wolf",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node ./src/index.js"
+  },
+  "author": "Matt Heys",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
